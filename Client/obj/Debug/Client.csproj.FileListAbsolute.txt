@@ -1,0 +1,15 @@
+C:\Course\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Course\Client\obj\Debug\Client.Form1.resources
+C:\Course\Client\obj\Debug\Client.Form2.resources
+C:\Course\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Course\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Course\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Course\Client\bin\Debug\Client.exe.config
+C:\Course\Client\bin\Debug\Client.exe
+C:\Course\Client\bin\Debug\Client.pdb
+C:\Course\Client\obj\Debug\Client.exe
+C:\Course\Client\obj\Debug\Client.pdb
+C:\Course\Client\bin\Debug\Client.exe.manifest
+C:\Course\Client\bin\Debug\Client.application
+C:\Course\Client\obj\Debug\Client.exe.manifest
+C:\Course\Client\obj\Debug\Client.application
